@@ -1,1 +1,1 @@
-# PPDP-via-Mutual-Cover
+# Mutual-Cover
